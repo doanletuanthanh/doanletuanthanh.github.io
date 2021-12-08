@@ -3,7 +3,7 @@
 
 - 👋 Hello, My full name is **Đoàn Lê Tuấn Thành**.
 - **Date of birth:** 27/10/2003
-- **Hometown:** Binh Dinh, Viet Nam
+- **Hometown:** Quang Tri, Viet Nam
 - **Major:** Computer Science
 - **Class:** KHMT2021
 - 💡 I’m currently curious about Frontend technologies. 😅
