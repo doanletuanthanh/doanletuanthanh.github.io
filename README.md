@@ -1,8 +1,11 @@
 ## Đoàn Lê Tuấn Thành
 
-You can use the [editor on GitHub](https://github.com/doanletuanthanh/doanletuanthanh.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 👋 Hello, My full name is **Đoàn Lê Tuấn Thành**.
+- 📚 I’m currently learning Computer Science at University of Information Technology, Vietnam National University - Ho Chi Minh City.
+- 💡 I’m currently curious about Frontend technologies. 😅
+- 🎮 Fun fact: I like to play video games. 😁
+- 😭 I'm newbie so I really really need a mentor who can help me learn at university. 
 
 ### Markdown
 
