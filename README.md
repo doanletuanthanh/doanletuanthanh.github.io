@@ -2,7 +2,7 @@
 
 
 - 👋 Hello, My full name is **Đoàn Lê Tuấn Thành**.
-- **Date of birth:** 27/10/2003
+- **Date of birth:** 13/03/2003
 - **Hometown:** Quang Tri, Viet Nam
 - **Major:** Computer Science
 - **Class:** KHMT2021
@@ -26,7 +26,7 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ### I'm currently leaning
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-### Looking forward to lear
+### Looking forward to learn
 ![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
